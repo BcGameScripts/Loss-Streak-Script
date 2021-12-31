@@ -5,3 +5,6 @@
 
 ## Why is the code obfuscated?
 A: To prevent code changes and code theft, but this does not affect the script's functionality.
+
+## How to use?
+A: Just copy the entire contents of the script.js file and paste it into "Script Content" in BC.Game
